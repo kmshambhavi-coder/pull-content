@@ -1,0 +1,17 @@
+{
+    "system_version": "6.1.6.173",
+    "readme_addons": {
+        "Integration": {},
+        "Mappings": {},
+        "Visual Family": {},
+        "Playbook": {},
+        "Connector": {},
+        "Job": {
+            "projects/project/locations/location/instances/instance/integrations/MicrosoftAzureSentinel/jobs/27/jobInstances/6": "readme text"
+        },
+        "Block": {}
+    },
+    "settings": {
+        "update_root_readme": true
+    }
+}
