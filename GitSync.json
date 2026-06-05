@@ -9,7 +9,8 @@
         "Job": {
             "projects/project/locations/location/instances/instance/integrations/MicrosoftAzureSentinel/jobs/27/jobInstances/6": "readme text",
             "CA Close Ticket In CA For Closed Case": "readme text",
-            "Sync Incidents": "readme text upgraded legacy"
+            "Sync Incidents": "readme text upgraded legacy",
+            "projects/project/locations/location/instances/instance/integrations/MicrosoftAzureSentinel/jobs/27/jobInstances/12": "readme text upgraded legacy"
         },
         "Block": {}
     },
