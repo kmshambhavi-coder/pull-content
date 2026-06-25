@@ -7,7 +7,9 @@
             "ActiveDirectory001": "Readme visual family"
         },
         "Playbook": {},
-        "Connector": {},
+        "Connector": {
+            "Crowdstrike - Alerts Connector": "Readme Connecytors"
+        },
         "Job": {},
         "Block": {}
     },
