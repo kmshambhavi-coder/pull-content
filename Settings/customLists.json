@@ -1,0 +1,13 @@
+[
+    {
+        "entityIdentifier": "Customlist1",
+        "category": "CL-01",
+        "forDBMigration": false,
+        "environments": [
+            "Default Environment"
+        ],
+        "id": 1,
+        "creationTimeUnixTimeInMs": 1782464004807,
+        "modificationTimeUnixTimeInMs": 1782464004807
+    }
+]

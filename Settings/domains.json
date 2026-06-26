@@ -1,0 +1,12 @@
+[
+    {
+        "alias": null,
+        "id": 1,
+        "domain": "Domain1",
+        "environments": [
+            "Default Environment"
+        ],
+        "creationTimeUnixTimeInMs": 1782463988573,
+        "modificationTimeUnixTimeInMs": 1782463988573
+    }
+]
