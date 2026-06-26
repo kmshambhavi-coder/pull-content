@@ -6,14 +6,18 @@
         },
         "Mappings": {},
         "Visual Family": {},
-        "Playbook": {},
+        "Playbook": {
+            "New Playbook": "readme playbook addon"
+        },
         "Connector": {
             "Crowdstrike - Alerts Connector": "Readme Connecytors"
         },
         "Job": {
             "Google Chronicle Sync Job": "readme job text"
         },
-        "Block": {}
+        "Block": {
+            "New Block": "readme playbook addon"
+        }
     },
     "settings": {
         "update_root_readme": true
