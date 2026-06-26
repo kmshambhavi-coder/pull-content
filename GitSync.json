@@ -8,7 +8,9 @@
         },
         "Playbook": {},
         "Connector": {},
-        "Job": {},
+        "Job": {
+            "Google Chronicle Sync Job": "readme job text"
+        },
         "Block": {}
     },
     "settings": {
