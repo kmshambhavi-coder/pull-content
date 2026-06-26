@@ -16,7 +16,8 @@
             "Google Chronicle Sync Job": "readme job text"
         },
         "Block": {
-            "New Block": "readme playbook addon"
+            "New Block": "readme playbook addon",
+            "New Block1": "readme playbook addon"
         }
     },
     "settings": {
