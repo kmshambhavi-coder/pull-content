@@ -1,0 +1,214 @@
+[
+    {
+        "environment": "*",
+        "integrationIdentifier": "GoogleSecOpsAiAgents",
+        "settings": {
+            "instanceDescription": null,
+            "instanceName": "System All Environments Default Instance",
+            "settings": [
+                {
+                    "propertyName": "Verify SSL",
+                    "value": "True",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 0,
+                    "isMandatory": false,
+                    "id": 27,
+                    "propertyDisplayName": "Verify SSL",
+                    "propertyDescription": "If enabled, verify the SSL certificate for the connection.",
+                    "integrationIdentifier": "GoogleSecOpsAiAgents",
+                    "integrationInstance": "b0b6f981-59c7-4e5b-8a75-d78bbd19dc93"
+                },
+                {
+                    "propertyName": "AgentIdentifier",
+                    "value": null,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 9,
+                    "isMandatory": false,
+                    "id": 28,
+                    "propertyDisplayName": "Agent",
+                    "propertyDescription": null,
+                    "integrationIdentifier": "GoogleSecOpsAiAgents",
+                    "integrationInstance": "b0b6f981-59c7-4e5b-8a75-d78bbd19dc93"
+                }
+            ]
+        }
+    },
+    {
+        "environment": "*",
+        "integrationIdentifier": "CrowdStrikeFalcon",
+        "settings": {
+            "instanceDescription": null,
+            "instanceName": "CrowdStrikeFalcon_1",
+            "settings": [
+                {
+                    "propertyName": "API Root",
+                    "value": "https://api.crowdstrike.com",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 2,
+                    "isMandatory": false,
+                    "id": 29,
+                    "propertyDisplayName": "API Root",
+                    "propertyDescription": null,
+                    "integrationIdentifier": "CrowdStrikeFalcon",
+                    "integrationInstance": "91b05821-3fb7-4aff-8211-227a34f74964"
+                },
+                {
+                    "propertyName": "Client API ID",
+                    "value": "",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 2,
+                    "isMandatory": true,
+                    "id": 30,
+                    "propertyDisplayName": "Client API ID",
+                    "propertyDescription": null,
+                    "integrationIdentifier": "CrowdStrikeFalcon",
+                    "integrationInstance": "91b05821-3fb7-4aff-8211-227a34f74964"
+                },
+                {
+                    "propertyName": "Client API Secret",
+                    "value": "",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 3,
+                    "isMandatory": true,
+                    "id": 31,
+                    "propertyDisplayName": "Client API Secret",
+                    "propertyDescription": null,
+                    "integrationIdentifier": "CrowdStrikeFalcon",
+                    "integrationInstance": "91b05821-3fb7-4aff-8211-227a34f74964"
+                },
+                {
+                    "propertyName": "Verify SSL",
+                    "value": "False",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 0,
+                    "isMandatory": false,
+                    "id": 32,
+                    "propertyDisplayName": "Verify SSL",
+                    "propertyDescription": null,
+                    "integrationIdentifier": "CrowdStrikeFalcon",
+                    "integrationInstance": "91b05821-3fb7-4aff-8211-227a34f74964"
+                },
+                {
+                    "propertyName": "Customer ID",
+                    "value": "",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 2,
+                    "isMandatory": false,
+                    "id": 33,
+                    "propertyDisplayName": "Customer ID",
+                    "propertyDescription": "The customer ID of the tenant in which to execute the integration. For use in multi-tenant (MSSP) environments.",
+                    "integrationIdentifier": "CrowdStrikeFalcon",
+                    "integrationInstance": "91b05821-3fb7-4aff-8211-227a34f74964"
+                },
+                {
+                    "propertyName": "AgentIdentifier",
+                    "value": null,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 9,
+                    "isMandatory": false,
+                    "id": 35,
+                    "propertyDisplayName": "Agent",
+                    "propertyDescription": null,
+                    "integrationIdentifier": "CrowdStrikeFalcon",
+                    "integrationInstance": "91b05821-3fb7-4aff-8211-227a34f74964"
+                }
+            ]
+        }
+    },
+    {
+        "environment": "*",
+        "integrationIdentifier": "GoogleChronicle",
+        "settings": {
+            "instanceDescription": null,
+            "instanceName": "GoogleChronicle_1",
+            "settings": [
+                {
+                    "propertyName": "UI Root",
+                    "value": "https://{instance}.chronicle.security",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 2,
+                    "isMandatory": true,
+                    "id": 36,
+                    "propertyDisplayName": "UI Root",
+                    "propertyDescription": "UI root of the Chronicle instance. It will be used to create a link that points back to Chronicle across multiple actions.",
+                    "integrationIdentifier": "GoogleChronicle",
+                    "integrationInstance": "98ba4ff1-bf5e-4658-b6d8-7c41df5e7e2e"
+                },
+                {
+                    "propertyName": "API Root",
+                    "value": "https://backstory.googleapis.com",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 2,
+                    "isMandatory": true,
+                    "id": 37,
+                    "propertyDisplayName": "API Root",
+                    "propertyDescription": "API root of the Chronicle instance.",
+                    "integrationIdentifier": "GoogleChronicle",
+                    "integrationInstance": "98ba4ff1-bf5e-4658-b6d8-7c41df5e7e2e"
+                },
+                {
+                    "propertyName": "User's Service Account",
+                    "value": "",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 3,
+                    "isMandatory": false,
+                    "id": 38,
+                    "propertyDisplayName": "User's Service Account",
+                    "propertyDescription": "Service Account that is used for authentication. You can configure either this parameter or the Workload Identity Email parameter. If both this and Workload Identity Email not provided, the default Service Account of the SecOps Instance will be used to authenticate.",
+                    "integrationIdentifier": "GoogleChronicle",
+                    "integrationInstance": "98ba4ff1-bf5e-4658-b6d8-7c41df5e7e2e"
+                },
+                {
+                    "propertyName": "Workload Identity Email",
+                    "value": "",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 3,
+                    "isMandatory": false,
+                    "id": 39,
+                    "propertyDisplayName": "Workload Identity Email",
+                    "propertyDescription": "The client email address of your workload identity. You can configure either this parameter or the User's Service Account parameter. To impersonate service accounts with the workload identity email address, grant the Service Account Token Creator role to your service account. If both this and User's Service Account not provided, the default Service Account of the SecOps Instance will be used to authenticate.",
+                    "integrationIdentifier": "GoogleChronicle",
+                    "integrationInstance": "98ba4ff1-bf5e-4658-b6d8-7c41df5e7e2e"
+                },
+                {
+                    "propertyName": "Verify SSL",
+                    "value": "True",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 0,
+                    "isMandatory": false,
+                    "id": 40,
+                    "propertyDisplayName": "Verify SSL",
+                    "propertyDescription": "If enabled, verify the SSL certificate for the connection to the Google Chronicle server is valid.",
+                    "integrationIdentifier": "GoogleChronicle",
+                    "integrationInstance": "98ba4ff1-bf5e-4658-b6d8-7c41df5e7e2e"
+                },
+                {
+                    "propertyName": "AgentIdentifier",
+                    "value": null,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 9,
+                    "isMandatory": false,
+                    "id": 42,
+                    "propertyDisplayName": "Agent",
+                    "propertyDescription": null,
+                    "integrationIdentifier": "GoogleChronicle",
+                    "integrationInstance": "98ba4ff1-bf5e-4658-b6d8-7c41df5e7e2e"
+                }
+            ]
+        }
+    }
+]
