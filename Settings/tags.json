@@ -1,0 +1,15 @@
+[
+    {
+        "value": " Out of working hours",
+        "name": "Tag1",
+        "propertyName": "",
+        "priority": 2,
+        "isPotentialCaseName": false,
+        "environments": [],
+        "type": 2,
+        "compareType": 2,
+        "id": 6,
+        "creationTimeUnixTimeInMs": 1782466414231,
+        "modificationTimeUnixTimeInMs": 1782466414231
+    }
+]

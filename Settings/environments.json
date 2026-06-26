@@ -1,0 +1,72 @@
+[
+    {
+        "id": 0,
+        "name": "Default Environment",
+        "description": "Default Environment",
+        "contactName": null,
+        "contactEmails": "",
+        "contactEmailsList": null,
+        "contactPhone": null,
+        "allowedActions": null,
+        "remediationDurationInDays": 0,
+        "shouldAllowRemediationActions": false,
+        "shouldNotifyOnRemediationActions": false,
+        "retentionDurationInMonths": 3,
+        "retentionDurationInMonthsInternal": null,
+        "base64Image": null,
+        "forDBMigration": false,
+        "environmentAllowedForAllUsers": false,
+        "dynamicParameters": [
+            {
+                "value": "001",
+                "dynamicParameterId": 2,
+                "environmentId": 1
+            },
+            {
+                "value": "001",
+                "dynamicParameterId": 1,
+                "environmentId": 1
+            }
+        ],
+        "properties": {},
+        "isSystem": true,
+        "aliases": [],
+        "instanceUrl": null,
+        "dataAccessScopes": []
+    },
+    {
+        "id": 0,
+        "name": "Environment001",
+        "description": "Environment001",
+        "contactName": "Environment001",
+        "contactEmails": "Environment001@test.com",
+        "contactEmailsList": null,
+        "contactPhone": "23456789",
+        "allowedActions": null,
+        "remediationDurationInDays": 0,
+        "shouldAllowRemediationActions": false,
+        "shouldNotifyOnRemediationActions": false,
+        "retentionDurationInMonths": 3,
+        "retentionDurationInMonthsInternal": null,
+        "base64Image": "",
+        "forDBMigration": false,
+        "environmentAllowedForAllUsers": false,
+        "dynamicParameters": [
+            {
+                "value": "001",
+                "dynamicParameterId": 2,
+                "environmentId": 3
+            },
+            {
+                "value": "001",
+                "dynamicParameterId": 1,
+                "environmentId": 3
+            }
+        ],
+        "properties": {},
+        "isSystem": false,
+        "aliases": [],
+        "instanceUrl": "",
+        "dataAccessScopes": []
+    }
+]
