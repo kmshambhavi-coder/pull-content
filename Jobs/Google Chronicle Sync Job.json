@@ -58,7 +58,7 @@
     ],
     "runIntervalInSeconds": 86400,
     "creationTime": "2026-06-26T11:01:27.928Z",
-    "lastModificationTime": "2026-06-29T10:03:40.224Z",
+    "lastModificationTime": "2026-06-29T11:01:51.087Z",
     "isSystemJob": false,
     "jobDefinitionName": "Google Chronicle Sync Job",
     "agentIdentifier": null,
