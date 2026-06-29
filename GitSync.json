@@ -10,7 +10,9 @@
         "Connector": {
             "Crowdstrike - Alerts Connector": "Readme Connecytors"
         },
-        "Job": {},
+        "Job": {
+            "Google Chronicle Sync Job": "readme job text"
+        },
         "Block": {}
     },
     "settings": {
