@@ -5,7 +5,9 @@
             "CrowdStrikeFalcon": "Integrations addon"
         },
         "Mappings": {},
-        "Visual Family": {},
+        "Visual Family": {
+            "ActiveDirectory01": "Readme visual family"
+        },
         "Playbook": {},
         "Connector": {
             "Crowdstrike - Alerts Connector": "Readme Connecytors"
