@@ -5,7 +5,7 @@
             "events": [
                 {
                     "_fields": {
-                        "baseEventIds": "[]",
+                        "baseEventIds": [],
                         "parentEventId": -1,
                         "deviceEventClassId": "Email check",
                         "deviceProduct": "Phishing email detector"

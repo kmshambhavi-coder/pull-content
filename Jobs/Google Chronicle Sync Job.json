@@ -14,13 +14,6 @@
     "version": 1,
     "parameters": [
         {
-            "id": 271,
-            "isMandatory": true,
-            "name": "Environment",
-            "type": 2,
-            "value": "Default Environment"
-        },
-        {
             "id": 272,
             "isMandatory": true,
             "name": "API Root",
@@ -54,11 +47,18 @@
             "name": "Verify SSL",
             "type": 0,
             "value": "false"
+        },
+        {
+            "id": 271,
+            "isMandatory": true,
+            "name": "Environment",
+            "type": 2,
+            "value": "Default Environment"
         }
     ],
     "runIntervalInSeconds": 86400,
     "creationTime": "2026-06-26T11:01:27.928Z",
-    "lastModificationTime": "2026-06-29T11:01:51.087Z",
+    "lastModificationTime": "2026-06-29T11:04:06.252Z",
     "isSystemJob": false,
     "jobDefinitionName": "Google Chronicle Sync Job",
     "agentIdentifier": null,
