@@ -6,7 +6,8 @@
         },
         "Mappings": {},
         "Visual Family": {
-            "ActiveDirectory01": "Readme visual family"
+            "ActiveDirectory01": "Readme visual family",
+            "Copy of AV": "Readme visual family"
         },
         "Playbook": {},
         "Connector": {

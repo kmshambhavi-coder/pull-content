@@ -25,6 +25,7 @@
 |Name|Description|
 |----|-----------|
 |ActiveDirectory01|ActiveDirectory01|
+|Copy of AV|Anti-virus alerts visualization|
 |Copy of OS|User activity on machine|
 
 
