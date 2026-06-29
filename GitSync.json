@@ -7,7 +7,9 @@
         "Mappings": {},
         "Visual Family": {},
         "Playbook": {},
-        "Connector": {},
+        "Connector": {
+            "Crowdstrike - Alerts Connector": "Readme Connecytors"
+        },
         "Job": {},
         "Block": {}
     },
