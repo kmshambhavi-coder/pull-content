@@ -1,94 +1,10 @@
 [
     {
-        "rootCause": "Similar case is already under investigation",
-        "forCloseReason": 1,
-        "id": 11,
-        "creationTimeUnixTimeInMs": 1782393933539,
-        "modificationTimeUnixTimeInMs": 1782393933539
-    },
-    {
-        "rootCause": "Unknown",
-        "forCloseReason": 1,
-        "id": 14,
-        "creationTimeUnixTimeInMs": 1782393933539,
-        "modificationTimeUnixTimeInMs": 1782393933539
-    },
-    {
-        "rootCause": "Misconfigured system",
-        "forCloseReason": 1,
-        "id": 15,
-        "creationTimeUnixTimeInMs": 1782393933539,
-        "modificationTimeUnixTimeInMs": 1782393933539
-    },
-    {
-        "rootCause": "Other",
-        "forCloseReason": 1,
-        "id": 18,
-        "creationTimeUnixTimeInMs": 1782393933539,
-        "modificationTimeUnixTimeInMs": 1782393933539
-    },
-    {
-        "rootCause": "Rule under construction",
-        "forCloseReason": 2,
-        "id": 24,
-        "creationTimeUnixTimeInMs": 1782393933539,
-        "modificationTimeUnixTimeInMs": 1782393933539
-    },
-    {
-        "rootCause": "Lab test",
-        "forCloseReason": 2,
-        "id": 25,
-        "creationTimeUnixTimeInMs": 1782393933539,
-        "modificationTimeUnixTimeInMs": 1782393933539
-    },
-    {
         "rootCause": "Other",
         "forCloseReason": 2,
         "id": 26,
         "creationTimeUnixTimeInMs": 1782393933539,
         "modificationTimeUnixTimeInMs": 1782393933539
-    },
-    {
-        "rootCause": "External attack",
-        "forCloseReason": 0,
-        "id": 1,
-        "creationTimeUnixTimeInMs": 1782393933539,
-        "modificationTimeUnixTimeInMs": 1782466414985
-    },
-    {
-        "rootCause": "System/application malfunction",
-        "forCloseReason": 0,
-        "id": 2,
-        "creationTimeUnixTimeInMs": 1782393933539,
-        "modificationTimeUnixTimeInMs": 1782466415061
-    },
-    {
-        "rootCause": "Unforeseen effects of change",
-        "forCloseReason": 0,
-        "id": 3,
-        "creationTimeUnixTimeInMs": 1782393933539,
-        "modificationTimeUnixTimeInMs": 1782466415125
-    },
-    {
-        "rootCause": "Irrelevant TCP/UDP port",
-        "forCloseReason": 0,
-        "id": 4,
-        "creationTimeUnixTimeInMs": 1782393933539,
-        "modificationTimeUnixTimeInMs": 1782466415195
-    },
-    {
-        "rootCause": "System blocked the attack",
-        "forCloseReason": 0,
-        "id": 5,
-        "creationTimeUnixTimeInMs": 1782393933539,
-        "modificationTimeUnixTimeInMs": 1782466415266
-    },
-    {
-        "rootCause": "Infrastructure issue",
-        "forCloseReason": 0,
-        "id": 6,
-        "creationTimeUnixTimeInMs": 1782393933539,
-        "modificationTimeUnixTimeInMs": 1782466415335
     },
     {
         "rootCause": "Misconfigured system",
@@ -119,60 +35,11 @@
         "modificationTimeUnixTimeInMs": 1782466415571
     },
     {
-        "rootCause": "Legit action",
-        "forCloseReason": 1,
-        "id": 12,
-        "creationTimeUnixTimeInMs": 1782393933539,
-        "modificationTimeUnixTimeInMs": 1782466415704
-    },
-    {
-        "rootCause": "None",
-        "forCloseReason": 1,
-        "id": 13,
-        "creationTimeUnixTimeInMs": 1782393933539,
-        "modificationTimeUnixTimeInMs": 1782466415763
-    },
-    {
-        "rootCause": "Human error",
-        "forCloseReason": 1,
-        "id": 16,
-        "creationTimeUnixTimeInMs": 1782393933539,
-        "modificationTimeUnixTimeInMs": 1782466415987
-    },
-    {
-        "rootCause": "Employee error",
-        "forCloseReason": 1,
-        "id": 17,
-        "creationTimeUnixTimeInMs": 1782393933539,
-        "modificationTimeUnixTimeInMs": 1782466416047
-    },
-    {
-        "rootCause": "User mistake",
-        "forCloseReason": 1,
-        "id": 19,
-        "creationTimeUnixTimeInMs": 1782393933539,
-        "modificationTimeUnixTimeInMs": 1782466416161
-    },
-    {
-        "rootCause": "Normal behavior",
-        "forCloseReason": 1,
-        "id": 20,
-        "creationTimeUnixTimeInMs": 1782393933539,
-        "modificationTimeUnixTimeInMs": 1782466416222
-    },
-    {
         "rootCause": "Lab test",
         "forCloseReason": 1,
         "id": 21,
         "creationTimeUnixTimeInMs": 1782393933539,
         "modificationTimeUnixTimeInMs": 1782466416282
-    },
-    {
-        "rootCause": "Penetration test",
-        "forCloseReason": 1,
-        "id": 22,
-        "creationTimeUnixTimeInMs": 1782393933539,
-        "modificationTimeUnixTimeInMs": 1782466416349
     },
     {
         "rootCause": "Rule under construction",
@@ -182,17 +49,150 @@
         "modificationTimeUnixTimeInMs": 1782466416407
     },
     {
+        "rootCause": "Similar case is already under investigation",
+        "forCloseReason": 1,
+        "id": 11,
+        "creationTimeUnixTimeInMs": 1782393933539,
+        "modificationTimeUnixTimeInMs": 1782486593478
+    },
+    {
+        "rootCause": "Unknown",
+        "forCloseReason": 1,
+        "id": 14,
+        "creationTimeUnixTimeInMs": 1782393933539,
+        "modificationTimeUnixTimeInMs": 1782486593537
+    },
+    {
+        "rootCause": "Misconfigured system",
+        "forCloseReason": 1,
+        "id": 15,
+        "creationTimeUnixTimeInMs": 1782393933539,
+        "modificationTimeUnixTimeInMs": 1782486593597
+    },
+    {
+        "rootCause": "Other",
+        "forCloseReason": 1,
+        "id": 18,
+        "creationTimeUnixTimeInMs": 1782393933539,
+        "modificationTimeUnixTimeInMs": 1782486593664
+    },
+    {
+        "rootCause": "Rule under construction",
+        "forCloseReason": 2,
+        "id": 24,
+        "creationTimeUnixTimeInMs": 1782393933539,
+        "modificationTimeUnixTimeInMs": 1782486593726
+    },
+    {
+        "rootCause": "Lab test",
+        "forCloseReason": 2,
+        "id": 25,
+        "creationTimeUnixTimeInMs": 1782393933539,
+        "modificationTimeUnixTimeInMs": 1782486593782
+    },
+    {
+        "rootCause": "External attack",
+        "forCloseReason": 0,
+        "id": 1,
+        "creationTimeUnixTimeInMs": 1782393933539,
+        "modificationTimeUnixTimeInMs": 1782486593882
+    },
+    {
+        "rootCause": "System/application malfunction",
+        "forCloseReason": 0,
+        "id": 2,
+        "creationTimeUnixTimeInMs": 1782393933539,
+        "modificationTimeUnixTimeInMs": 1782486593941
+    },
+    {
+        "rootCause": "Unforeseen effects of change",
+        "forCloseReason": 0,
+        "id": 3,
+        "creationTimeUnixTimeInMs": 1782393933539,
+        "modificationTimeUnixTimeInMs": 1782486593999
+    },
+    {
+        "rootCause": "Irrelevant TCP/UDP port",
+        "forCloseReason": 0,
+        "id": 4,
+        "creationTimeUnixTimeInMs": 1782393933539,
+        "modificationTimeUnixTimeInMs": 1782486594061
+    },
+    {
+        "rootCause": "System blocked the attack",
+        "forCloseReason": 0,
+        "id": 5,
+        "creationTimeUnixTimeInMs": 1782393933539,
+        "modificationTimeUnixTimeInMs": 1782486594116
+    },
+    {
+        "rootCause": "Infrastructure issue",
+        "forCloseReason": 0,
+        "id": 6,
+        "creationTimeUnixTimeInMs": 1782393933539,
+        "modificationTimeUnixTimeInMs": 1782486594183
+    },
+    {
+        "rootCause": "Legit action",
+        "forCloseReason": 1,
+        "id": 12,
+        "creationTimeUnixTimeInMs": 1782393933539,
+        "modificationTimeUnixTimeInMs": 1782486594495
+    },
+    {
+        "rootCause": "None",
+        "forCloseReason": 1,
+        "id": 13,
+        "creationTimeUnixTimeInMs": 1782393933539,
+        "modificationTimeUnixTimeInMs": 1782486594547
+    },
+    {
+        "rootCause": "Human error",
+        "forCloseReason": 1,
+        "id": 16,
+        "creationTimeUnixTimeInMs": 1782393933539,
+        "modificationTimeUnixTimeInMs": 1782486594600
+    },
+    {
+        "rootCause": "Employee error",
+        "forCloseReason": 1,
+        "id": 17,
+        "creationTimeUnixTimeInMs": 1782393933539,
+        "modificationTimeUnixTimeInMs": 1782486594658
+    },
+    {
+        "rootCause": "User mistake",
+        "forCloseReason": 1,
+        "id": 19,
+        "creationTimeUnixTimeInMs": 1782393933539,
+        "modificationTimeUnixTimeInMs": 1782486594716
+    },
+    {
+        "rootCause": "Normal behavior",
+        "forCloseReason": 1,
+        "id": 20,
+        "creationTimeUnixTimeInMs": 1782393933539,
+        "modificationTimeUnixTimeInMs": 1782486594773
+    },
+    {
+        "rootCause": "Penetration test",
+        "forCloseReason": 1,
+        "id": 22,
+        "creationTimeUnixTimeInMs": 1782393933539,
+        "modificationTimeUnixTimeInMs": 1782486594887
+    },
+    {
         "rootCause": "No clear conclusion",
         "forCloseReason": 3,
         "id": 27,
         "creationTimeUnixTimeInMs": 1782393933539,
-        "modificationTimeUnixTimeInMs": 1782466416616
+        "modificationTimeUnixTimeInMs": 1782486594983
     },
     {
         "rootCause": "manual ",
         "forCloseReason": 0,
         "id": 29,
         "creationTimeUnixTimeInMs": 1782466416677,
-        "modificationTimeUnixTimeInMs": 1782466416677
+        "modificationTimeUnixTimeInMs": 1782486595036
     }
 ]
