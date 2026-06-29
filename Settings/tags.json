@@ -1,15 +1,15 @@
 [
     {
-        "value": " Out of working hours",
+        "value": "phishing email detector",
         "name": "Tag1",
-        "propertyName": "",
-        "priority": 2,
+        "propertyName": "Entity.Alert_Id",
+        "priority": 1,
         "isPotentialCaseName": false,
         "environments": [],
-        "type": 2,
+        "type": 3,
         "compareType": 2,
-        "id": 6,
-        "creationTimeUnixTimeInMs": 1782466414231,
-        "modificationTimeUnixTimeInMs": 1782466414231
+        "id": 9,
+        "creationTimeUnixTimeInMs": 1782727046067,
+        "modificationTimeUnixTimeInMs": 1782727046067
     }
 ]

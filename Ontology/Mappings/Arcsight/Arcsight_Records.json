@@ -1,0 +1,13 @@
+[
+    {
+        "id": 0,
+        "source": "Arcsight",
+        "familyName": "MailRelayOrTAP",
+        "familyId": 0,
+        "product": "Phishing email detector",
+        "eventName": "Email check",
+        "mappingStatus": null,
+        "changeSource": 1,
+        "exampleEventFields": []
+    }
+]
